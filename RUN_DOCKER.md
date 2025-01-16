@@ -1,3 +1,6 @@
+I'm sure, that this project does not need this but,
+i'll add this for fun). I did'nt test it.
+
 For running with docker, you need only docker and
 network connection.
 
